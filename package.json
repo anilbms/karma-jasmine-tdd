@@ -1,0 +1,33 @@
+{
+  "name": "karma-jasmine-tdd",
+  "version": "0.0.0",
+  "description": "demo of unit test cases using Karma and Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anilbms/karma-jasmine-tdd.git"
+  },
+  "keywords": [
+    "karma",
+    "jasmine",
+    "tdd",
+    "unit",
+    "test"
+  ],
+  "author": "Anil Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilbms/karma-jasmine-tdd/issues"
+  },
+  "homepage": "https://github.com/anilbms/karma-jasmine-tdd",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.13.15",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-coverage": "^0.3.1",
+    "karma-jasmine": "^0.3.5"
+  }
+}
